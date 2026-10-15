@@ -1,0 +1,15 @@
+{
+  "geode": "5.11.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "lovestudios.part_prac",
+  "name": "Part Prac",
+  "version": "v1.0.4",
+  "developer": "Love Studios",
+  "description": "Select a section, practise it on repeat, and keep the full level's decoration and music.",
+  "tags": [
+    "utility",
+    "gameplay"
+  ]
+}
